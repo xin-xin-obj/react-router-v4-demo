@@ -40,7 +40,10 @@ const Products = () => (
     <h2>Products</h2>
   </div>
 )
-
+/**
+ * 
+ * 测试测试
+*/
 /*Category component*/
 const Category = () => (
   <div>
